@@ -1,8 +1,8 @@
-# chruby
+# chnode
 
-[![Build Status](https://travis-ci.org/postmodern/chruby.svg?branch=master)](https://travis-ci.org/postmodern/chruby)
+[![Build Status](https://travis-ci.org/wingrunr21/chnode.svg?branch=master)](https://travis-ci.org/wingrunr21/chnode)
 
-Changes the current Ruby.
+Changes the current Node.
 
 ## Features
 
