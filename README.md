@@ -1,5 +1,9 @@
 # chnode
 
+# DEPRECATED
+
+Recommend [tkareine/chnode](https://github.com/tkareine/chnode) instead
+
 [![Build Status](https://travis-ci.org/wingrunr21/chnode.svg?branch=master)](https://travis-ci.org/wingrunr21/chnode)
 
 Changes the current Node.
